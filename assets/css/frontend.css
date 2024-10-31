@@ -1,0 +1,226 @@
+form ul li {
+    margin-bottom: 30px;
+    list-style: none;
+}
+
+.btn {
+    background: #000;
+    padding: 8px 12px;
+    color: #fff;
+    width: 120px;
+    box-sizing: border-box;
+}
+
+.submit_wrapper .btn-submit {
+    padding: 8px 15px;
+    background: #409EFF;
+    display: inline-block;
+    border: none;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 400;
+    cursor: pointer;
+}
+
+.btn-image {
+    background: #ecf5ff;
+    border: 1px solid #b3d8ff;
+    border-radius: 7px;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 1;
+    padding: 12px 20px;
+    text-align: center;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+    vertical-align: middle;
+    white-space: nowrap;
+    color: #1a7efb !important;
+    text-decoration: none;
+}
+
+.show-inline {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.show-inline label {
+    margin-right: 15px;
+}
+
+.radiant_registration-el label {
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.radiant_registration-label {
+    margin-bottom: 10px !important;
+    display: block;
+  }
+  
+
+ul.radiant_registration-form li.radiant_registration-name .radiant_registration-fields {
+    display: flex;
+    justify-content: space-between;
+}
+
+ul.radiant_registration-form li.field-size-small .radiant_registration-fields {
+    width: 30%;
+}
+
+ul.radiant_registration-form li.field-size-medium .radiant_registration-fields {
+    width: 65%;
+}
+
+ul.radiant_registration-form li.field-size-large .radiant_registration-fields {
+    width: 100%;
+}
+
+.radiant_registration-label  label {
+    font-weight: bold;
+}
+
+ul.radiant_registration-form.form-label-above li .radiant_registration-label {
+    display: block;
+    width: 100%;
+    margin-bottom: 5px;
+}
+
+ul.radiant_registration-form.form-label-hidden li .radiant_registration-label {
+    display: none;
+}
+
+.radiant_registration-el-form-control {
+    width: 100%;
+}
+
+ul.radiant_registration-form.form-label-left li, ul.radiant_registration-form.form-label-right li {
+  display: flex;
+  justify-content: flex-start;
+}
+
+ul.radiant_registration-form.form-label-right li {
+    flex-direction: row-reverse;
+}
+
+ul.radiant_registration-form.form-label-left li div.radiant_registration-label,
+ul.radiant_registration-form.form-label-right li div.radiant_registration-label {
+    flex-basis: 20% !important;
+    margin-left: 15px;
+}
+
+ul.radiant_registration-form.form-label-right li div.radiant_registration-fields {
+  flex-basis: 75% !important;
+}
+
+.modal-btn {
+    color: #fff;
+    text-decoration: none;
+    display: block;
+    background: #7e3bd0;
+    width: 200px;
+    padding: 8px 12px;
+}
+
+.attachment-list li {
+    margin: 0;
+}
+
+.radiant_registration-section_break {
+    border-bottom: 1px solid #ccc;
+}
+
+.radiant_registration-el-form-control {
+    box-sizing: border-box;
+    background-clip: padding-box;
+    background-image: none;
+    border: 1px solid #dadbdd;
+    border-radius: 7px;
+    color: #606266;
+    display: block;
+    font-family: -apple-system,"system-ui",Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif;
+    font-size: 14px;
+    line-height: 1;
+    margin-bottom: 0;
+    max-width: 100%;
+    padding: 11px 15px;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    width: 100%;
+}
+
+.radiant_registration-form-add ul {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.name-container {
+    display: flex;
+    gap: 15px;
+}
+
+.radiant_registration-label .required, .contact-sub-fields .required, .radiant_registration-form .required {
+    color: red;
+    margin-left: 5px;
+}
+
+.has-error .radiant_registration-el-form-control {
+    border: 1px solid red !important;
+}
+
+.has-error .radiant_registration-error-msg {
+    color: red;
+    margin-top: 5px;
+}
+
+.address-fields {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+
+.address-fields .radiant_registration-sub-fields {
+    flex-basis: calc(50% - 15px);
+    box-sizing: border-box;
+}
+
+
+.radiant_registration-linear_scale .contact-fields {
+    display: flex;
+    gap: 15px;
+}
+
+.radiant_registration-column {
+    display: flex;
+}
+
+.list_type_image input[type="radio"], .list_type_image input[type="checkbox"] {
+    position: absolute;
+    opacity: 0;
+    width: 0;
+    height: 0;
+}
+
+
+.list_type_image input[type="radio"]:checked + img, .list_type_image input[type="checkbox"]:checked + img {
+    border: 3px solid #409EFF;
+}
+
+.list_type_image label {
+    flex-basis: 30%;
+}
+
+.list_type_image label img {
+    max-width: 100%;
+    width: 200px;
+    cursor: pointer;
+}
+
+
+.choices__list--multiple .choices__item.is-highlighted {
+    background-color: #409EFF !important;
+    border-color: #409EFF !important;
+}
+

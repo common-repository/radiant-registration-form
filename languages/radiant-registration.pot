@@ -1,0 +1,878 @@
+# Copyright (C) 2024 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: "
+"https://wordpress.org/support/plugin/Radiant-Registration\n"
+"POT-Creation-Date: 2024-03-04 22:15:16+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2024-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: includes/class-admin-form-handler.php:127
+msgid "Form duplicated successfully"
+msgstr ""
+
+#: includes/class-admin.php:53
+msgid "Number of forms per page:"
+msgstr ""
+
+#: includes/class-admin.php:81 includes/class-admin.php:101
+#: includes/class-admin.php:103 includes/html/form-list-view.php:15
+msgid "Forms"
+msgstr ""
+
+#: includes/class-admin.php:102 includes/class-smarttags.php:26
+msgid "Form"
+msgstr ""
+
+#: includes/class-admin.php:104 includes/html/form-list-view.php:16
+msgid "Add Form"
+msgstr ""
+
+#: includes/class-admin.php:105
+msgid "Add New Form"
+msgstr ""
+
+#: includes/class-admin.php:106 includes/class-forms-list.php:189
+msgid "Edit"
+msgstr ""
+
+#: includes/class-admin.php:107
+msgid "Edit Form"
+msgstr ""
+
+#: includes/class-admin.php:108
+msgid "New Form"
+msgstr ""
+
+#: includes/class-admin.php:109 includes/class-admin.php:110
+msgid "View Form"
+msgstr ""
+
+#: includes/class-admin.php:111
+msgid "Search Form"
+msgstr ""
+
+#: includes/class-admin.php:112
+msgid "No Form Found"
+msgstr ""
+
+#: includes/class-admin.php:113
+msgid "No Form Found in Trash"
+msgstr ""
+
+#: includes/class-admin.php:114
+msgid "Parent Form"
+msgstr ""
+
+#: includes/class-admin.php:140 includes/class-admin.php:142
+msgid "Radient Registration"
+msgstr ""
+
+#: includes/class-ajax.php:37 includes/class-ajax.php:276
+msgid "Unauthorized operation"
+msgstr ""
+
+#: includes/class-ajax.php:59
+msgid "An Email address is required"
+msgstr ""
+
+#: includes/class-ajax.php:68
+msgid "Username already exists."
+msgstr ""
+
+#: includes/class-ajax.php:77
+msgid "E-mail address already exists."
+msgstr ""
+
+#: includes/class-ajax.php:87
+msgid "Username is not valid"
+msgstr ""
+
+#: includes/class-ajax.php:98
+msgid "Password must be %s character long"
+msgstr ""
+
+#: includes/class-ajax.php:103
+msgid "Password didn't match"
+msgstr ""
+
+#: includes/class-ajax.php:140
+msgid "User not created"
+msgstr ""
+
+#: includes/class-ajax.php:251
+msgid "Please check your email for activation link"
+msgstr ""
+
+#: includes/class-ajax.php:284
+msgid "Invalid form id"
+msgstr ""
+
+#: includes/class-assets.php:70
+msgid "Are you sure?"
+msgstr ""
+
+#: includes/class-assets.php:71
+msgid "Yes, delete it"
+msgstr ""
+
+#: includes/class-assets.php:72
+msgid "No, cancel it"
+msgstr ""
+
+#: includes/class-assets.php:80
+msgid "Allowed Files"
+msgstr ""
+
+#: includes/class-assets.php:86
+msgid "Maximum number of files reached!"
+msgstr ""
+
+#: includes/class-assets.php:87
+msgid "The file you have uploaded exceeds the file size limit. Please try again."
+msgstr ""
+
+#: includes/class-assets.php:88
+msgid "You have uploaded an incorrect file type. Please try again."
+msgstr ""
+
+#: includes/class-assets.php:209
+msgid "is required"
+msgstr ""
+
+#: includes/class-assets.php:210
+msgid "does not match"
+msgstr ""
+
+#: includes/class-assets.php:211
+msgid "is not valid"
+msgstr ""
+
+#: includes/class-assets.php:212
+msgid "requires a unique entry and this value has already been used"
+msgstr ""
+
+#: includes/class-field-manager.php:157
+msgid "Profile Fields"
+msgstr ""
+
+#: includes/class-field-manager.php:191
+msgid "Custom Fields"
+msgstr ""
+
+#: includes/class-field-manager.php:214
+msgid "Others"
+msgstr ""
+
+#: includes/class-form-preview.php:97
+msgid "You must be logged in to preview this form."
+msgstr ""
+
+#: includes/class-form.php:199
+msgid "The form is not published yet."
+msgstr ""
+
+#: includes/class-forms-list.php:60 includes/class-smarttags.php:30
+msgid "Form Name"
+msgstr ""
+
+#: includes/class-forms-list.php:61
+msgid "Shortcode"
+msgstr ""
+
+#: includes/class-forms-list.php:62
+msgid "Author"
+msgstr ""
+
+#: includes/class-forms-list.php:63 includes/class-smarttags.php:37
+#: includes/fields/class-field-date.php:24
+msgid "Date"
+msgstr ""
+
+#: includes/class-forms-list.php:195
+msgid "View preview"
+msgstr ""
+
+#: includes/class-forms-list.php:196
+msgid "Preview"
+msgstr ""
+
+#: includes/class-forms-list.php:214
+msgid "Duplicate this form"
+msgstr ""
+
+#: includes/class-forms-list.php:215
+msgid "Duplicate"
+msgstr ""
+
+#: includes/class-forms-list.php:233
+msgid "Delete this form"
+msgstr ""
+
+#: includes/class-forms-list.php:234
+msgid "Delete"
+msgstr ""
+
+#: includes/class-forms-list.php:279
+msgid "Y/m/d g:i:s A"
+msgstr ""
+
+#: includes/class-forms-list.php:291
+#. translators: %s: Time
+msgid "%s ago"
+msgstr ""
+
+#: includes/class-forms-list.php:295
+msgid "Y/m/d"
+msgstr ""
+
+#: includes/class-forms-list.php:397
+msgid "Delete Permanently"
+msgstr ""
+
+#: includes/class-frontend.php:40
+msgid "User registration disabled, please contact the admin to enable."
+msgstr ""
+
+#: includes/class-smarttags.php:28
+msgid "Entry ID"
+msgstr ""
+
+#: includes/class-smarttags.php:29
+msgid "Form ID"
+msgstr ""
+
+#: includes/class-smarttags.php:34
+msgid "System"
+msgstr ""
+
+#: includes/class-smarttags.php:36
+msgid "Site Administrator Email"
+msgstr ""
+
+#: includes/class-smarttags.php:38
+msgid "Site Title"
+msgstr ""
+
+#: includes/class-smarttags.php:39
+msgid "Site URL"
+msgstr ""
+
+#: includes/class-smarttags.php:40
+msgid "Embedded Page Title"
+msgstr ""
+
+#: includes/class-smarttags.php:44
+msgid "User"
+msgstr ""
+
+#: includes/class-smarttags.php:46
+msgid "IP Address"
+msgstr ""
+
+#: includes/class-smarttags.php:47
+msgid "User ID"
+msgstr ""
+
+#: includes/class-smarttags.php:48
+#: includes/fields/class-field-first-name.php:26
+msgid "First Name"
+msgstr ""
+
+#: includes/class-smarttags.php:49 includes/fields/class-field-last-name.php:26
+msgid "Last Name"
+msgstr ""
+
+#: includes/class-smarttags.php:50
+#: includes/fields/class-field-display-name.php:26
+msgid "Display Name"
+msgstr ""
+
+#: includes/class-smarttags.php:51 includes/fields/class-field-email.php:26
+#: includes/fields/class-field-user-email.php:27
+msgid "Email"
+msgstr ""
+
+#: includes/class-smarttags.php:55
+msgid "URL's"
+msgstr ""
+
+#: includes/class-smarttags.php:57
+msgid "Embeded Page URL"
+msgstr ""
+
+#: includes/class-smarttags.php:58
+msgid "Referer URL"
+msgstr ""
+
+#: includes/class-smarttags.php:59
+msgid "Login URL"
+msgstr ""
+
+#: includes/class-smarttags.php:60
+msgid "Logout URL"
+msgstr ""
+
+#: includes/class-smarttags.php:61
+msgid "Register URL"
+msgstr ""
+
+#: includes/class-smarttags.php:62
+msgid "Lost Password URL"
+msgstr ""
+
+#: includes/class-smarttags.php:63
+msgid "Personal Data Erase Confirmation URL"
+msgstr ""
+
+#: includes/class-smarttags.php:64
+msgid "Personal Data Export Confirmation URL"
+msgstr ""
+
+#: includes/fields/class-abstract-fields.php:144
+msgid "- select -"
+msgstr ""
+
+#: includes/fields/class-abstract-fields.php:186
+msgid "Field Label"
+msgstr ""
+
+#: includes/fields/class-abstract-fields.php:190
+msgid "Enter a title of this field"
+msgstr ""
+
+#: includes/fields/class-abstract-fields.php:195
+msgid "Help text"
+msgstr ""
+
+#: includes/fields/class-abstract-fields.php:199
+msgid "Give the user some information about this field"
+msgstr ""
+
+#: includes/fields/class-abstract-fields.php:204
+msgid "Required"
+msgstr ""
+
+#: includes/fields/class-abstract-fields.php:207
+#: includes/fields/class-field-name.php:174
+msgid "Yes"
+msgstr ""
+
+#: includes/fields/class-abstract-fields.php:208
+#: includes/fields/class-field-name.php:175
+msgid "No"
+msgstr ""
+
+#: includes/fields/class-abstract-fields.php:214
+msgid ""
+"Check this option to mark the field required. A form will not submit unless "
+"all required fields are provided."
+msgstr ""
+
+#: includes/fields/class-abstract-fields.php:219
+msgid "Field Size"
+msgstr ""
+
+#: includes/fields/class-abstract-fields.php:222
+msgid "Small"
+msgstr ""
+
+#: includes/fields/class-abstract-fields.php:223
+msgid "Medium"
+msgstr ""
+
+#: includes/fields/class-abstract-fields.php:224
+msgid "Large"
+msgstr ""
+
+#: includes/fields/class-abstract-fields.php:234
+msgid "CSS Class Name"
+msgstr ""
+
+#: includes/fields/class-abstract-fields.php:238
+msgid ""
+"Provide a container class name for this field. Available classes: "
+"radiant_registration-col-half, radiant_registration-col-half-last, "
+"radiant_registration-col-one-third, radiant_registration-col-one-third-last"
+msgstr ""
+
+#: includes/fields/class-abstract-fields.php:247
+#: includes/fields/class-field-hidden.php:54
+#: includes/fields/class-field-html.php:61
+#: includes/fields/class-field-sectionbreak.php:68
+msgid "Meta Key"
+msgstr ""
+
+#: includes/fields/class-abstract-fields.php:251
+#: includes/fields/class-field-hidden.php:58
+#: includes/fields/class-field-html.php:65
+#: includes/fields/class-field-sectionbreak.php:72
+msgid "Name of the meta key this field will save to"
+msgstr ""
+
+#: includes/fields/class-abstract-fields.php:274
+msgid "Conditional Logic"
+msgstr ""
+
+#: includes/fields/class-field-checkbox.php:26
+msgid "Checkbox"
+msgstr ""
+
+#: includes/fields/class-field-checkbox.php:89
+msgid "Layout"
+msgstr ""
+
+#: includes/fields/class-field-checkbox.php:92
+msgid "Default"
+msgstr ""
+
+#: includes/fields/class-field-checkbox.php:93
+msgid "Inline"
+msgstr ""
+
+#: includes/fields/class-field-checkbox.php:99
+#: includes/fields/class-field-name.php:181
+msgid "Show this option in an inline list"
+msgstr ""
+
+#: includes/fields/class-field-date.php:89
+msgid "Date Format"
+msgstr ""
+
+#: includes/fields/class-field-date.php:93
+#: includes/fields/class-field-date.php:97
+msgid "m/d/Y - (Ex: 04/28/2018)"
+msgstr ""
+
+#: includes/fields/class-field-date.php:94
+msgid "m/d/Y - (Ex: 04/28/18)"
+msgstr ""
+
+#: includes/fields/class-field-date.php:95
+msgid "m/d/Y - (Ex: 28/04/2018)"
+msgstr ""
+
+#: includes/fields/class-field-date.php:96
+msgid "d.m.Y - (Ex: 28.04.2018)"
+msgstr ""
+
+#: includes/fields/class-field-date.php:98
+msgid "y/m/d - (Ex: 28/04/18)"
+msgstr ""
+
+#: includes/fields/class-field-date.php:99
+msgid "d-m-y - (Ex: 28-04-18)"
+msgstr ""
+
+#: includes/fields/class-field-date.php:100
+msgid "h:i K - (Ex: 08:55 PM)"
+msgstr ""
+
+#: includes/fields/class-field-date.php:101
+msgid "H:i - (Ex: 20:55 )"
+msgstr ""
+
+#: includes/fields/class-field-date.php:102
+msgid "d.m.Y H:i K- (Ex: 28.04.2018 20:55 PM)"
+msgstr ""
+
+#: includes/fields/class-field-date.php:103
+msgid "d/m/Y H:i K- (Ex: 28/04/2018 20:55 PM)"
+msgstr ""
+
+#: includes/fields/class-field-date.php:104
+msgid "d.m.Y H:i - (Ex: 28.04.2018 20:55)"
+msgstr ""
+
+#: includes/fields/class-field-date.php:105
+msgid "d/m/Y H:i - (Ex: 28/04/2018 20:55)"
+msgstr ""
+
+#: includes/fields/class-field-date.php:106
+msgid "H:i - (Ex: 28-04-18 )"
+msgstr ""
+
+#: includes/fields/class-field-date.php:110
+msgid "The date format"
+msgstr ""
+
+#: includes/fields/class-field-dropdown.php:26
+msgid "DropDown"
+msgstr ""
+
+#: includes/fields/class-field-dropdown.php:81
+msgid "Select Text"
+msgstr ""
+
+#: includes/fields/class-field-dropdown.php:85
+msgid "help"
+msgstr ""
+
+#: includes/fields/class-field-dropdown.php:104
+#: includes/fields/class-field-dropdown.php:105
+#: includes/fields/class-field-multidropdown.php:90
+#: includes/fields/class-field-multidropdown.php:91
+msgid "option"
+msgstr ""
+
+#: includes/fields/class-field-dropdown.php:108
+#: includes/fields/class-field-dropdown.php:109
+#: includes/fields/class-field-multidropdown.php:94
+#: includes/fields/class-field-multidropdown.php:95
+msgid "option-2"
+msgstr ""
+
+#: includes/fields/class-field-dropdown.php:112
+#: includes/fields/class-field-dropdown.php:113
+#: includes/fields/class-field-multidropdown.php:98
+#: includes/fields/class-field-multidropdown.php:99
+msgid "option-3"
+msgstr ""
+
+#: includes/fields/class-field-dropdown.php:116
+#: includes/fields/class-field-multidropdown.php:102
+msgid "— Select —"
+msgstr ""
+
+#: includes/fields/class-field-email.php:89
+#: includes/fields/class-field-text.php:80
+#: includes/fields/class-field-url.php:86
+msgid "Unique Values Only"
+msgstr ""
+
+#: includes/fields/class-field-email.php:94
+#: includes/fields/class-field-text.php:85
+#: includes/fields/class-field-url.php:91
+msgid ""
+"Select this option to limit user input to unique values only. This will "
+"require that a value entered in a field does not currently exist in the "
+"entry database for that field."
+msgstr ""
+
+#: includes/fields/class-field-email.php:102
+msgid "Auto-populate Email"
+msgstr ""
+
+#: includes/fields/class-field-email.php:107
+msgid ""
+"If a user is logged into the site, this email field will be auto-populated "
+"with his email. And form's email field will be hidden."
+msgstr ""
+
+#: includes/fields/class-field-hidden.php:24
+msgid "Hidden"
+msgstr ""
+
+#: includes/fields/class-field-hidden.php:62
+msgid "Meta Value"
+msgstr ""
+
+#: includes/fields/class-field-hidden.php:66
+msgid "Enter the meta value"
+msgstr ""
+
+#: includes/fields/class-field-hidden.php:74
+msgid ""
+"Check this option to allow field to be populated dynamically using "
+"hooks/query string/shortcode"
+msgstr ""
+
+#: includes/fields/class-field-html.php:24
+msgid "Html"
+msgstr ""
+
+#: includes/fields/class-field-html.php:53
+msgid "Html Codes"
+msgstr ""
+
+#: includes/fields/class-field-html.php:57
+msgid "Paste your HTML codes, WordPress shortcodes will also work here"
+msgstr ""
+
+#: includes/fields/class-field-html.php:81
+msgid "HTML Section"
+msgstr ""
+
+#: includes/fields/class-field-multidropdown.php:24
+msgid "Multi Select"
+msgstr ""
+
+#: includes/fields/class-field-name.php:25
+msgid "Name"
+msgstr ""
+
+#: includes/fields/class-field-name.php:142
+msgid "Auto-populate Name"
+msgstr ""
+
+#: includes/fields/class-field-name.php:147
+msgid ""
+"If a user is logged into the site, this name field will be auto-populated "
+"with his first-last/display name. And form's name field will be hidden."
+msgstr ""
+
+#: includes/fields/class-field-name.php:151
+msgid "Label"
+msgstr ""
+
+#: includes/fields/class-field-name.php:155
+msgid "Select format to use for the name field"
+msgstr ""
+
+#: includes/fields/class-field-name.php:163
+msgid "Hide Sub Labels"
+msgstr ""
+
+#: includes/fields/class-field-name.php:171
+msgid "Show in inline list"
+msgstr ""
+
+#: includes/fields/class-field-name.php:203
+msgid "FirstName"
+msgstr ""
+
+#: includes/fields/class-field-name.php:212
+msgid "MiddleName"
+msgstr ""
+
+#: includes/fields/class-field-name.php:221
+msgid "LastName"
+msgstr ""
+
+#: includes/fields/class-field-nickname.php:27
+msgid "Nickname"
+msgstr ""
+
+#: includes/fields/class-field-number.php:25
+msgid "Numeric"
+msgstr ""
+
+#: includes/fields/class-field-number.php:89
+msgid "Step"
+msgstr ""
+
+#: includes/fields/class-field-number.php:99
+msgid "Min Value"
+msgstr ""
+
+#: includes/fields/class-field-number.php:109
+msgid "Max Value"
+msgstr ""
+
+#: includes/fields/class-field-password.php:27
+msgid "Password"
+msgstr ""
+
+#: includes/fields/class-field-password.php:84
+msgid "Minimum password length"
+msgstr ""
+
+#: includes/fields/class-field-password.php:92
+msgid "Password Re-type"
+msgstr ""
+
+#: includes/fields/class-field-password.php:94
+msgid "Require Password repeat"
+msgstr ""
+
+#: includes/fields/class-field-password.php:102
+msgid "Re-type password label"
+msgstr ""
+
+#: includes/fields/class-field-password.php:110
+msgid "Password Strength Meter"
+msgstr ""
+
+#: includes/fields/class-field-password.php:112
+msgid "Show password strength meter"
+msgstr ""
+
+#: includes/fields/class-field-radio.php:26
+msgid "Radio"
+msgstr ""
+
+#: includes/fields/class-field-sectionbreak.php:25
+msgid "Section Break"
+msgstr ""
+
+#: includes/fields/class-field-sectionbreak.php:60
+msgid "Title"
+msgstr ""
+
+#: includes/fields/class-field-sectionbreak.php:64
+msgid "Title of the section"
+msgstr ""
+
+#: includes/fields/class-field-sectionbreak.php:76
+msgid "Description"
+msgstr ""
+
+#: includes/fields/class-field-sectionbreak.php:80
+msgid "Some details text about the section"
+msgstr ""
+
+#: includes/fields/class-field-sectionbreak.php:96
+msgid "Some description about this section"
+msgstr ""
+
+#: includes/fields/class-field-text.php:27
+msgid "Text"
+msgstr ""
+
+#: includes/fields/class-field-textarea.php:26
+msgid "Textarea"
+msgstr ""
+
+#: includes/fields/class-field-url.php:26
+msgid "Url"
+msgstr ""
+
+#: includes/fields/class-field-user-bio.php:27
+msgid "Biographical Info"
+msgstr ""
+
+#: includes/fields/class-field-user-url.php:27
+msgid "Website"
+msgstr ""
+
+#: includes/fields/class-field-username.php:27
+msgid "Username"
+msgstr ""
+
+#: includes/fields/field-trait.php:17 includes/fields/field-trait.php:112
+msgid "Placeholder text"
+msgstr ""
+
+#: includes/fields/field-trait.php:22 includes/fields/field-trait.php:116
+msgid "Text for HTML5 placeholder attribute"
+msgstr ""
+
+#: includes/fields/field-trait.php:27 includes/fields/field-trait.php:124
+msgid "Default value"
+msgstr ""
+
+#: includes/fields/field-trait.php:32 includes/fields/field-trait.php:128
+msgid "The default value this field will have"
+msgstr ""
+
+#: includes/fields/field-trait.php:37
+msgid "Size"
+msgstr ""
+
+#: includes/fields/field-trait.php:42
+msgid "Size of this input field"
+msgstr ""
+
+#: includes/fields/field-trait.php:49 includes/fields/field-trait.php:133
+msgid "Word Restriction"
+msgstr ""
+
+#: includes/fields/field-trait.php:53 includes/fields/field-trait.php:137
+msgid "Numebr of words the author to be restricted in"
+msgstr ""
+
+#: includes/fields/field-trait.php:73
+msgid "Options"
+msgstr ""
+
+#: includes/fields/field-trait.php:78
+msgid "Add options for the form field"
+msgstr ""
+
+#: includes/fields/field-trait.php:94
+msgid "Rows"
+msgstr ""
+
+#: includes/fields/field-trait.php:98
+msgid "Number of rows in textarea"
+msgstr ""
+
+#: includes/fields/field-trait.php:103
+msgid "Columns"
+msgstr ""
+
+#: includes/fields/field-trait.php:107
+msgid "Number of columns in textarea"
+msgstr ""
+
+#: includes/functions.php:18
+msgid "Images"
+msgstr ""
+
+#: includes/functions.php:22
+msgid "Audio"
+msgstr ""
+
+#: includes/functions.php:26
+msgid "Videos"
+msgstr ""
+
+#: includes/functions.php:30
+msgid "PDF"
+msgstr ""
+
+#: includes/functions.php:34
+msgid "Office Documents"
+msgstr ""
+
+#: includes/functions.php:38
+msgid "Zip Archives"
+msgstr ""
+
+#: includes/functions.php:42
+msgid "Executable Files"
+msgstr ""
+
+#: includes/functions.php:46
+msgid "CSV"
+msgstr ""
+
+#: includes/html/form-list-view.php:25
+msgid "Search Forms"
+msgstr ""
+
+#: includes/html/modal.php:14
+msgid "Modal window. Press escape to close."
+msgstr ""
+
+#: includes/html/modal.php:15
+msgid "Close modal window"
+msgstr ""
+
+#: includes/html/modal.php:18
+msgid "Select a Template"
+msgstr ""
+
+#: includes/html/modal.php:45
+msgid "This integration is not installed."
+msgstr ""
+
+#: includes/html/modal.php:63
+msgid "Create Form"
+msgstr ""
+
+#: includes/templates/class-template-blank.php:26
+msgid "Blank Form"
+msgstr ""
+
+#: includes/templates/class-template-blank.php:27
+msgid "Create a simple Blank form."
+msgstr ""
